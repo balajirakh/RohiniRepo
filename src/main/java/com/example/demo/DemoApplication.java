@@ -18,6 +18,8 @@ public class DemoApplication {
 		System.out.println("Byeee");
 		
 		System.out.println("Thank you");
+		
+		System.out.println("Thanks");
 	}
 
 }
